@@ -1,0 +1,5 @@
+C:\Users\калабаева\source\repos\FirstLesson\Models\bin\Debug\Models.dll
+C:\Users\калабаева\source\repos\FirstLesson\Models\bin\Debug\Models.pdb
+C:\Users\калабаева\source\repos\FirstLesson\Models\obj\Debug\Models.csprojAssemblyReference.cache
+C:\Users\калабаева\source\repos\FirstLesson\Models\obj\Debug\Models.dll
+C:\Users\калабаева\source\repos\FirstLesson\Models\obj\Debug\Models.pdb
